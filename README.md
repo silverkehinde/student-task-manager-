@@ -1,18 +1,33 @@
-# Student Task Manager
+# StudyFlow — Student Task Manager
 
-A responsive student productivity app for managing assignments, deadlines, and study tasks.
+A polished, responsive student productivity dashboard built with HTML, CSS and vanilla JavaScript.
 
-## Features
-- Add tasks with due dates and priority
-- Mark tasks complete
-- Delete tasks
-- Search and filter tasks
-- Dashboard statistics
-- LocalStorage persistence
-- Responsive design
+## ✨ Features
+- Modern student dashboard UI
+- Add tasks with subjects, deadlines and priority
+- Mark tasks complete with live progress percentage
+- Search across task titles and subjects
+- Filter by all, to-do, completed or high priority
+- Overdue deadline detection
+- Persistent tasks with browser LocalStorage
+- Light/dark mode with saved preference
+- Responsive layout for desktop, tablet and mobile
+- Accessible labels and keyboard-friendly controls
 
-## Run
-Open `index.html` in a browser. No build tools are required.
+## 🚀 Run locally
+No installation or build tools are required. Open `index.html` in any modern browser.
 
-## Technologies
-HTML5, CSS3, Vanilla JavaScript, LocalStorage
+## 🧰 Tech stack
+HTML5 · CSS3 · Vanilla JavaScript · LocalStorage
+
+## 📁 Structure
+```text
+student-task-manager-/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🎯 Project goal
+StudyFlow demonstrates practical front-end skills: semantic HTML, responsive CSS, DOM manipulation, state management, persistence, filtering, and interactive UI design.
